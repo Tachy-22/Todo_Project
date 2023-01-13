@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/Todo_Project/static/css/main.2bb12236.css",
+    "main.js": "/github.io/Todo_Project/static/js/main.c02f227d.js",
+    "static/media/cancel-svgrepo-com.svg": "/github.io/Todo_Project/static/media/cancel-svgrepo-com.96c132302cf8eb835f11fa5066495e11.svg",
+    "static/media/check-svgrepo-com.svg": "/github.io/Todo_Project/static/media/check-svgrepo-com.c16182a453645d9010cd354437ab335e.svg",
+    "static/media/icons8-trash-can.svg": "/github.io/Todo_Project/static/media/icons8-trash-can.93b1b2a08563bad59b3ef4d2c86ee126.svg",
+    "index.html": "/github.io/Todo_Project/index.html",
+    "static/media/icons8-edit.svg": "/github.io/Todo_Project/static/media/icons8-edit.8fefd191c7cd7e9d8e34e44b4169c19e.svg",
+    "static/media/hamburger-menu-svgrepo-com.svg": "/github.io/Todo_Project/static/media/hamburger-menu-svgrepo-com.86827026d63c761f47f9eb817a01ba38.svg",
+    "main.2bb12236.css.map": "/github.io/Todo_Project/static/css/main.2bb12236.css.map",
+    "main.c02f227d.js.map": "/github.io/Todo_Project/static/js/main.c02f227d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bb12236.css",
+    "static/js/main.c02f227d.js"
+  ]
+}
